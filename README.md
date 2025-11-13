@@ -1,4 +1,4 @@
-# Mi-primera-pagina
+# Mi primera pagina - Linda Natalia Sanchez
 Este proyecto es mi primera página web, creada con el objetivo de practicar y aprender los fundamentos del desarrollo web.
 
 # Temas vistos en clase 
