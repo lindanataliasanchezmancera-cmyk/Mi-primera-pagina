@@ -29,5 +29,5 @@ En conclusión, aprender sobre cómo funcionan las computadoras me hizo entender
 # Referencia de IA
 https://chatgpt.com/share/6915476b-4ce4-8006-b502-feed23b39e80
 
-[Despliegue de la tortuga veloz](TAREA2.md)
+[la tortuga de Linda](blog/tarea2_unidad1.md)
 
