@@ -31,3 +31,9 @@ https://chatgpt.com/share/6915476b-4ce4-8006-b502-feed23b39e80
 
 [la tortuga de Linda](blog/tarea2_unidad1.md)
 
+#TAREA 3 MINI-TURTLE
+
+[REPOSITORIO 1](https://github.com/lindanataliasanchezmancera-cmyk/mini_turtle_task)
+
+[REPOSITORIO 2](https://github.com/lindanataliasanchezmancera-cmyk/mini_turtle_oo_task)
+
